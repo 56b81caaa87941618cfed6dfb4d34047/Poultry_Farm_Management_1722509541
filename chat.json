@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add two radio button and three checkboxes",
+        "message_id": "guest01082024105358",
+        "timestamp": "01082024105358",
+        "component_file_name": "basic_login_form_1722509600",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
