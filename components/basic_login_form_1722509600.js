@@ -24,11 +24,11 @@ Vue.component('basic_login_form_1722509600', {
               <div class="flex items-center space-x-4 mb-2">
                 <label class="flex items-center">
                   <input type="radio" name="preference" class="mr-2">
-                  <span>Option 1</span>
+                  <span>Male</span>
                 </label>
                 <label class="flex items-center">
                   <input type="radio" name="preference" class="mr-2">
-                  <span>Option 2</span>
+                  <span>Female</span>
                 </label>
               </div>
             </div>
