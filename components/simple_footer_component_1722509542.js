@@ -9,13 +9,13 @@ Vue.component("simple_footer_component_1722509542", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            STARTER_TEMPLATE_APPLICATION_NAME
+                            EggTech: Powering Poultry Productivity
                         </a>
                     </div>
                 </div>
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        STARTER_TEMPLATE_FOOTER_CONTENT
+                        EggTech is revolutionizing the poultry industry with cutting-edge technology solutions. Our farm management software streamlines operations, optimizes feed ratios, monitors bird health, and maximizes egg yields. Join leading farms embracing digital transformation with EggTech.
                     </div>
                 </div>
             </div>
