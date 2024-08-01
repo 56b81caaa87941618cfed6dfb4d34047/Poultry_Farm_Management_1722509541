@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, updating radio button text to Male and Female.",
+        "message_id": "guest01082024105523",
+        "timestamp": "01082024105523",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change radio button text with Male and Female",
         "message_id": "guest01082024105523",
