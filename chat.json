@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it. Adding two radio buttons and three checkboxes.",
+        "message_id": "guest01082024105358",
+        "timestamp": "01082024105359",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add two radio button and three checkboxes",
         "message_id": "guest01082024105358",
