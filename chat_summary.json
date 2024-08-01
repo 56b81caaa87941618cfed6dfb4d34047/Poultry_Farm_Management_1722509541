@@ -6,5 +6,11 @@
         "timestamp": "1722509542",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add two radio button and three checkboxes",
+        "timestamp": "01082024105358",
+        "message_id": "guest01082024105358"
     }
 ]
