@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable dropdown menus for breed selection\", \"checked\": false}, {\"feature\": \"Dynamic forms for egg production tracking\", \"checked\": true}, {\"feature\": \"Color-coded tags for bird age categorization\", \"checked\": false}, {\"feature\": \"Interactive charts for weight and growth tracking\", \"checked\": true}, {\"feature\": \"Automatic gender detection from bird images\", \"checked\": false}, {\"feature\": \"Notification alerts for vaccination schedules\", \"checked\": true}], \"input_token_count\": 214, \"output_token_count\": 112, \"time_taken\": \"0:00:04.123055\"}",
         "timestamp": "01082024105528",
         "message_id": "guest01082024105523"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you need any specific styling or font changes for the new radio button texts?\", \"option1\": \"Yes, please modify the styling/font as per the app's theme.\", \"option2\": \"No, keep the current styling/font for the radio buttons.\"}, {\"question 2\": \"Should the radio buttons for Male and Female be grouped with any other existing options or kept separate?\", \"option1\": \"Yes, group them with other existing options.\", \"option2\": \"No, keep them as a separate selection group.\"}], \"input_token_count\": 260, \"output_token_count\": 120, \"time_taken\": \"0:00:04.389574\"}",
+        "timestamp": "01082024105528",
+        "message_id": "guest01082024105523"
     }
 ]
