@@ -36,5 +36,11 @@
         "content": "Change radio button text with Male and Female",
         "timestamp": "01082024105523",
         "message_id": "guest01082024105523"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, updating radio button text to Male and Female.",
+        "timestamp": "01082024105523",
+        "message_id": "guest01082024105523"
     }
 ]
