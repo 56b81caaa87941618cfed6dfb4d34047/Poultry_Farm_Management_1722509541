@@ -18,5 +18,11 @@
         "content": "Got it. Adding two radio buttons and three checkboxes.",
         "timestamp": "01082024105359",
         "message_id": "guest01082024105358"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What will the two radio buttons be used for in the app? Are they for selecting bird types or for differentiating between egg and meat production?\", \"option1\": \"Selecting bird types\", \"option2\": \"Differentiating between egg and meat production\"}, {\"question 2\": \"What are the three checkboxes for? Will they be used for selecting feed types, scheduling tasks, or tracking health parameters?\", \"option1\": \"Selecting feed types\", \"option2\": \"Scheduling tasks\"}], \"input_token_count\": 259, \"output_token_count\": 115, \"time_taken\": \"0:00:05.130272\"}",
+        "timestamp": "01082024105404",
+        "message_id": "guest01082024105358"
     }
 ]
